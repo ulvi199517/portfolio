@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
-  "main": "index.js",
+  "main": "template.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
